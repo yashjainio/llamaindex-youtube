@@ -1,0 +1,19 @@
+# Install via: conda activate ./.llama-index-youtube-env && pip install -r requirements.txt
+llama-index
+llama-index-core
+llama-index-readers-file
+python-dotenv
+ipykernel
+llama-index-retrievers-bm25
+PyStemmer
+llama-cloud
+pymupdf4llm
+langgraph
+langchain-openai
+langchain-core
+chromadb
+llama-index-vector-stores-chroma
+sentence-transformers
+matplotlib
+arize-phoenix
+openinference-instrumentation-llama-index
