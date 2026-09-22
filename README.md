@@ -156,11 +156,6 @@ Your LlamaIndex RAG environment is ready to build powerful AI apps 🚀
 - Instrumenting LlamaIndex with OpenTelemetry via `LlamaIndexInstrumentor` to trace every internal step.
 - Pulling captured traces back programmatically as a dataframe from the Phoenix client.
 
-### **20. Capstone: LlamaIndex + LangGraph Agent**
-
-- Building a tool-calling agent in LangGraph with LlamaIndex retrieval wired in as just another tool.
-- Lives in its own `20_llamaindex_langgraph_agent/` subfolder as a multi-file project rather than a single notebook.
-
 ---
 
 # **📄 requirements.txt**
